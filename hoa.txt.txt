@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bi hiep hack
+=======
+đã bị hack
+>>>>>>> 3c4abdd3f15c2af30e745a03169e407e4d7bef7a
