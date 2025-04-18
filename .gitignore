@@ -1,0 +1,5 @@
+# Ignore thư mục Note/
+Note/ 
+
+# Ignore file cấu hình
+config.json
